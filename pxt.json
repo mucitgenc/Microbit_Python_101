@@ -1,5 +1,5 @@
 {
-    "name": "İot_101",
+    "name": "00_Python_101",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,10 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py",
+        "00_Python_101.md",
+        "recipes.md"
     ],
     "testFiles": [
         "test.ts"
@@ -16,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
