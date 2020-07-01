@@ -11,7 +11,8 @@
         "README.md",
         "main.py",
         "00_Python_101.md",
-        "recipes.md"
+        "recipes.md",
+        "01_Python_101.md"
     ],
     "testFiles": [
         "test.ts"
